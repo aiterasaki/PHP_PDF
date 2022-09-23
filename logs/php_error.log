@@ -1,0 +1,257 @@
+[22-Sep-2022 04:45:43 UTC] PHP Fatal error:  Uncaught Error: Class "tPDF" not found in /Applications/MAMP/htdocs/pdfcreater/makepdf.php:4
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 4
+[22-Sep-2022 04:51:13 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:51:13 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:51:13 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(8): tFPDF->AddFont('shipporimincho', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 04:51:13 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:51:13 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:51:13 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(8): tFPDF->AddFont('shipporimincho', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 04:51:49 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:51:49 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:51:49 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(8): tFPDF->AddFont('shipporimincho', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 04:51:50 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:51:50 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:51:50 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(8): tFPDF->AddFont('shipporimincho', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 04:52:26 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:52:26 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:52:26 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(8): tFPDF->AddFont('shipporimincho', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 04:52:26 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:52:26 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:52:26 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(8): tFPDF->AddFont('shipporimincho', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 04:52:46 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:52:46 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:52:46 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(8): tFPDF->AddFont('shipporimincho', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 04:52:53 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:52:53 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:52:53 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(8): tFPDF->AddFont('shipporimincho', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 04:53:59 UTC] PHP Warning:  Undefined property: tFPDF::$Output in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 11
+[22-Sep-2022 04:55:16 UTC] PHP Warning:  stat(): stat failed for /Applications/MAMP/htdocs/pdfcreater/tfpdf/font/unifont/ShipporiMincho-TTF-Regular.ttf in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 486
+[22-Sep-2022 04:55:16 UTC] PHP Warning:  fopen(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/unifont/ShipporiMincho-TTF-Regular.ttf): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/font/unifont/ttfonts.php on line 79
+[22-Sep-2022 04:56:37 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:56:37 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:56:37 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(7): tFPDF->AddFont('shipporimincho', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 04:56:39 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:56:39 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:56:39 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(7): tFPDF->AddFont('shipporimincho', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 04:56:40 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:56:40 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:56:40 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(7): tFPDF->AddFont('shipporimincho', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 04:59:03 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:59:03 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:59:03 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(7): tFPDF->AddFont('shippori_mincho...', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 04:59:58 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:59:58 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 04:59:58 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(7): tFPDF->AddFont('shippori_mincho...', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 05:00:00 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 05:00:00 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 05:00:00 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(7): tFPDF->AddFont('shippori_mincho...', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 05:00:01 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 05:00:01 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 05:00:01 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(7): tFPDF->AddFont('shippori_mincho...', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 05:00:01 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 05:00:01 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 05:00:01 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(7): tFPDF->AddFont('shippori_mincho...', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 05:00:17 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 05:00:17 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 05:00:17 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(7): tFPDF->AddFont('shippori_mincho...', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 05:04:21 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 05:04:21 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 05:04:21 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(7): tFPDF->AddFont('shipporiminchob...', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 05:08:34 UTC] PHP Warning:  stat(): stat failed for /Applications/MAMP/htdocs/pdfcreater/tfpdf/font/unifont/ShipporiMincho-TTF-Regular.ttf in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 486
+[22-Sep-2022 05:08:34 UTC] PHP Warning:  fopen(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/unifont/ShipporiMincho-TTF-Regular.ttf): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/font/unifont/ttfonts.php on line 79
+[22-Sep-2022 05:12:04 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 05:12:04 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 05:12:04 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(7): tFPDF->AddFont('shipporiminchob...', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 05:13:00 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 05:13:00 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 05:13:00 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(7): tFPDF->AddFont('shippori_mincho...', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 05:13:03 UTC] PHP Warning:  include(/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 05:13:03 UTC] PHP Warning:  include(): Failed opening '/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/1' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 1348
+[22-Sep-2022 05:13:03 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1350): tFPDF->Error('Could not inclu...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(547): tFPDF->_loadfont(true)
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(7): tFPDF->AddFont('shippori_mincho...', 'SHIPPORIMINCHOB...', true)
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 05:21:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "B" in /Applications/MAMP/htdocs/pdfcreater/makepdf.php:13
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 13
+[22-Sep-2022 05:21:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "B" in /Applications/MAMP/htdocs/pdfcreater/makepdf.php:13
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 13
+[22-Sep-2022 05:41:15 UTC] PHP Warning:  Undefined array key "names" in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 11
+[22-Sep-2022 05:41:15 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /Applications/MAMP/htdocs/pdfcreater/makepdf.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(11): explode('', '', NULL)
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 11
+[22-Sep-2022 05:41:16 UTC] PHP Warning:  Undefined array key "names" in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 11
+[22-Sep-2022 05:41:16 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /Applications/MAMP/htdocs/pdfcreater/makepdf.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(11): explode('', '', NULL)
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 11
+[22-Sep-2022 05:49:06 UTC] PHP Parse error:  syntax error, unexpected token "as" in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 15
+[22-Sep-2022 05:49:07 UTC] PHP Parse error:  syntax error, unexpected token "as" in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 15
+[22-Sep-2022 05:49:07 UTC] PHP Parse error:  syntax error, unexpected token "as" in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 15
+[22-Sep-2022 05:50:35 UTC] PHP Warning:  Undefined array key "names" in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 11
+[22-Sep-2022 05:50:35 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /Applications/MAMP/htdocs/pdfcreater/makepdf.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(11): explode('', '', NULL)
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 11
+[22-Sep-2022 05:50:36 UTC] PHP Warning:  Undefined array key "names" in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 11
+[22-Sep-2022 05:50:36 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /Applications/MAMP/htdocs/pdfcreater/makepdf.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(11): explode('', '', NULL)
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 11
+[22-Sep-2022 05:50:37 UTC] PHP Warning:  Undefined array key "names" in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 11
+[22-Sep-2022 05:50:37 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /Applications/MAMP/htdocs/pdfcreater/makepdf.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(11): explode('', '', NULL)
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 11
+[22-Sep-2022 07:04:49 UTC] PHP Warning:  Undefined array key "names" in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 8
+[22-Sep-2022 07:04:49 UTC] PHP Warning:  Undefined array key "contents" in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 26
+[22-Sep-2022 07:04:49 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1268): tFPDF->Error('Some data has a...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1204): tFPDF->_checkoutput()
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(21): tFPDF->Output()
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
+[22-Sep-2022 07:05:01 UTC] PHP Warning:  Undefined array key "names" in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 8
+[22-Sep-2022 07:05:01 UTC] PHP Warning:  Undefined array key "contents" in /Applications/MAMP/htdocs/pdfcreater/makepdf.php on line 26
+[22-Sep-2022 07:05:01 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php:274
+Stack trace:
+#0 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1268): tFPDF->Error('Some data has a...')
+#1 /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php(1204): tFPDF->_checkoutput()
+#2 /Applications/MAMP/htdocs/pdfcreater/makepdf.php(21): tFPDF->Output()
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/pdfcreater/tfpdf/tfpdf.php on line 274
